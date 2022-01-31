@@ -1,4 +1,4 @@
-import { ApiException } from "./client";
+import { ApiException } from "../client/client";
 
 export class ImageUploadClient
 {

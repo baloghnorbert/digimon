@@ -2,7 +2,6 @@ import { baseURL } from "./base.url";
 import { FetchProxy } from "./fetch.proxy";
 import {
     FileUploadService,
-    PositionService,
     DigimonService
 } from "./wrappers";
 import { StorageService } from "../storage/storage.service";
@@ -17,7 +16,6 @@ export namespace WebAPI
     const signOutCallback: (() => void) | null = null;
 
     export const Digimons: DigimonService = new DigimonService(baseURL, proxy);
-    export const Positions: PositionService = new PositionService(baseURL, proxy);
     export const Files: FileUploadService = new FileUploadService(baseURL, proxy);
 
 

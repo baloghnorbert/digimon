@@ -11,15 +11,6 @@ export class DigimonService extends DigimonClient
 }
 
 
-export class PositionService extends PositionClient
-{
-    constructor(baseUrl?: string, http?: { fetch(url: RequestInfo, init?: RequestInit): Promise<Response> })
-    {
-        super(baseUrl, http);
-        this.jsonParseReviver = ReviveDateTime;
-    }
-}
-
 export class FileUploadService extends ImageUploadClient
 {
     constructor(baseUrl?: string, http?: { fetch(url: RequestInfo, init?: RequestInit): Promise<Response> })

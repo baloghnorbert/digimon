@@ -54,7 +54,7 @@ const HomePage: React.FC = (): JSX.Element => {
         <IonPage>
             <IonHeader>
                 <IonToolbar>
-                    <IonTitle>STAR WARS CHARACHTERS</IonTitle>
+                    <IonTitle>Digimons</IonTitle>
                 </IonToolbar>
             </IonHeader>
             <IonContent fullscreen>
