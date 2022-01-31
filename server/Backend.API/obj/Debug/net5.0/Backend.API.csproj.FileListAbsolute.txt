@@ -1,0 +1,667 @@
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.csprojAssemblyReference.cache
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfoInputs.cache
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfo.cs
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CoreCompileInputs.cache
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cache
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\web.config
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\appsettings.Development.json
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\appsettings.json
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\appsettings.Production.json
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.API.exe
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.API.deps.json
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.json
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.dev.json
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.API.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\ref\Backend.API.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.API.pdb
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.AutoBind.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.VariablesSubstitution.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\dbup-core.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\dbup-mysql.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\DotNetEnv.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\FluentValidation.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Google.Protobuf.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\MySql.Data.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Zstandard.Net.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\MySqlConnector.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Namotion.Reflection.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\NCrontab.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\NJsonSchema.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\NSwag.Annotations.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.Filters.Expressions.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Sprache.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Renci.SshNet.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\StackExchange.Redis.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Superpower.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Core.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Middleware.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Repository.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Scheduler.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Service.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Templates.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Validation.dll
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Core.pdb
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Middleware.pdb
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Repository.pdb
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Scheduler.pdb
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Service.pdb
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Templates.pdb
+d:\Projects\WebSocket REST\Backend.API\bin\Debug\net5.0\Backend.Validation.pdb
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.Manifest.cache
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.xml
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\scopedcss\bundle\Backend.API.styles.css
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.RazorTargetAssemblyInfo.cache
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CopyComplete
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.dll
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\ref\Backend.API.dll
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.pdb
+d:\Projects\WebSocket REST\Backend.API\obj\Debug\net5.0\Backend.API.genruntimeconfig.cache
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\web.config
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\appsettings.Development.json
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\appsettings.json
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\appsettings.Production.json
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.API.exe
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.API.deps.json
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.json
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.dev.json
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.API.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\ref\Backend.API.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.API.pdb
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.AutoBind.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.VariablesSubstitution.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\dbup-core.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\dbup-mysql.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\DnsClient.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\DotNetEnv.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\FluentValidation.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Google.Protobuf.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\MongoDB.Bson.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\MongoDB.Driver.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\MySql.Data.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Zstandard.Net.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\MySqlConnector.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Namotion.Reflection.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\NCrontab.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\NJsonSchema.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\NSwag.Annotations.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.Filters.Expressions.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\SharpCompress.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Sprache.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\StackExchange.Redis.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Superpower.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Core.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Middleware.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.MongoDBRepository.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.MySQLRepository.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Scheduler.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Service.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Templates.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Validation.dll
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Core.pdb
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Middleware.pdb
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.MongoDBRepository.pdb
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.MySQLRepository.pdb
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Scheduler.pdb
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Service.pdb
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Templates.pdb
+e:\Temp\backend\Backend.API\bin\Debug\net5.0\Backend.Validation.pdb
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.csproj.AssemblyReference.cache
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.GeneratedMSBuildEditorConfig.editorconfig
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfoInputs.cache
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfo.cs
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CoreCompileInputs.cache
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cs
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cache
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.Manifest.cache
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.xml
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\scopedcss\bundle\Backend.API.styles.css
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.RazorTargetAssemblyInfo.cache
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CopyComplete
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.dll
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\ref\Backend.API.dll
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.pdb
+e:\Temp\backend\Backend.API\obj\Debug\net5.0\Backend.API.genruntimeconfig.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\web.config
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\appsettings.json
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\appsettings.Development.json
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\appsettings.Production.json
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.API.exe
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.API.deps.json
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.json
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.dev.json
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.API.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\ref\Backend.API.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.API.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.AutoBind.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.VariablesSubstitution.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\dbup-core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\dbup-mysql.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\DnsClient.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\DotNetEnv.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\FluentValidation.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Google.Protobuf.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\MongoDB.Bson.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\MongoDB.Driver.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\MySql.Data.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Zstandard.Net.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\MySqlConnector.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Namotion.Reflection.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\NCrontab.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\NJsonSchema.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\NSwag.Annotations.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.Filters.Expressions.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\SharpCompress.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Sprache.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\StackExchange.Redis.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Superpower.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Middleware.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.MongoDBRepository.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.MySQLRepository.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Scheduler.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Service.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Templates.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Validation.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Middleware.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.MongoDBRepository.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.MySQLRepository.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Scheduler.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Service.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Templates.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\bin\Debug\net5.0\Backend.Validation.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.csproj.AssemblyReference.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfoInputs.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfo.cs
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CoreCompileInputs.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cs
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.Manifest.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.xml
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\scopedcss\bundle\Backend.API.styles.css
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.RazorTargetAssemblyInfo.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CopyComplete
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\ref\Backend.API.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.API\obj\Debug\net5.0\Backend.API.genruntimeconfig.cache
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\ref\Backend.API.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.csprojAssemblyReference.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfoInputs.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfo.cs
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CoreCompileInputs.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cs
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\ref\Backend.API.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\web.config
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\appsettings.Development.json
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\appsettings.json
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\appsettings.Production.json
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.exe
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.deps.json
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.json
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.dev.json
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\ref\Backend.API.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.AutoBind.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.VariablesSubstitution.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\dbup-core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\dbup-mysql.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\DnsClient.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\DotNetEnv.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\FluentValidation.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Google.Protobuf.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\MongoDB.Bson.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\MongoDB.Driver.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\MySql.Data.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Zstandard.Net.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\MySqlConnector.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Namotion.Reflection.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\NCrontab.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\NJsonSchema.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\NSwag.Annotations.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Filters.Expressions.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\SharpCompress.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Sprache.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\StackExchange.Redis.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Superpower.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Middleware.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Validation.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Core.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Middleware.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Validation.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.Manifest.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.xml
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\scopedcss\bundle\Backend.API.styles.css
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.RazorTargetAssemblyInfo.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CopyComplete
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.genruntimeconfig.cache
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.csproj.AssemblyReference.cache
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfoInputs.cache
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfo.cs
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CoreCompileInputs.cache
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.dll
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\ref\Backend.API.dll
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.pdb
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\web.config
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\appsettings.json
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\appsettings.Production.json
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.exe
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.deps.json
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.json
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.dev.json
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\ref\Backend.API.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.API.pdb
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.AutoBind.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.VariablesSubstitution.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\dbup-core.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\dbup-mysql.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\DnsClient.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\DotNetEnv.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\FluentValidation.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Flurl.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Flurl.Http.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\MySql.Data.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Zstandard.Net.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\MySqlConnector.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\NCrontab.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\NJsonSchema.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Filters.Expressions.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\SharpCompress.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Sprache.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Superpower.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Core.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Middleware.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Validation.dll
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Core.pdb
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Middleware.pdb
+D:\Desktop\backend with no DB\Backend.API\bin\Debug\net5.0\Backend.Validation.pdb
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.Manifest.cache
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.xml
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\scopedcss\bundle\Backend.API.styles.css
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.RazorTargetAssemblyInfo.cache
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CopyComplete
+D:\Desktop\backend with no DB\Backend.API\obj\Debug\net5.0\Backend.API.genruntimeconfig.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\web.config
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\appsettings.json
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.API.exe
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.API.deps.json
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.json
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.API.runtimeconfig.dev.json
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.API.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\ref\Backend.API.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.API.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.AutoBind.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Contrib.Extensions.Configuration.VariablesSubstitution.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\dbup-core.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\dbup-mysql.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\DnsClient.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\DotNetEnv.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Flurl.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Flurl.Http.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\NCrontab.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.Filters.Expressions.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Sprache.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Superpower.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.Middleware.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.Validation.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.Core.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.Middleware.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\bin\Debug\net5.0\Backend.Validation.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.csprojAssemblyReference.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfoInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.AssemblyInfo.cs
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CoreCompileInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.Manifest.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\staticwebassets\Backend.API.StaticWebAssets.xml
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\scopedcss\bundle\Backend.API.styles.css
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.RazorTargetAssemblyInfo.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.csproj.CopyComplete
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\ref\Backend.API.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.API\obj\Debug\net5.0\Backend.API.genruntimeconfig.cache

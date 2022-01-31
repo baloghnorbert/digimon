@@ -1,0 +1,79 @@
+d:\Projects\WebSocket REST\Backend.Core\obj\Debug\net5.0\Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\WebSocket REST\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfoInputs.cache
+d:\Projects\WebSocket REST\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfo.cs
+d:\Projects\WebSocket REST\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.CoreCompileInputs.cache
+d:\Projects\WebSocket REST\Backend.Core\bin\Debug\net5.0\Backend.Core.deps.json
+d:\Projects\WebSocket REST\Backend.Core\bin\Debug\net5.0\Backend.Core.dll
+d:\Projects\WebSocket REST\Backend.Core\bin\Debug\net5.0\ref\Backend.Core.dll
+d:\Projects\WebSocket REST\Backend.Core\bin\Debug\net5.0\Backend.Core.pdb
+d:\Projects\WebSocket REST\Backend.Core\obj\Debug\net5.0\Backend.Core.dll
+d:\Projects\WebSocket REST\Backend.Core\obj\Debug\net5.0\ref\Backend.Core.dll
+d:\Projects\WebSocket REST\Backend.Core\obj\Debug\net5.0\Backend.Core.pdb
+e:\Temp\backend\Backend.Core\bin\Debug\net5.0\Backend.Core.deps.json
+e:\Temp\backend\Backend.Core\bin\Debug\net5.0\Backend.Core.dll
+e:\Temp\backend\Backend.Core\bin\Debug\net5.0\ref\Backend.Core.dll
+e:\Temp\backend\Backend.Core\bin\Debug\net5.0\Backend.Core.pdb
+e:\Temp\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.AssemblyReference.cache
+e:\Temp\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+e:\Temp\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfoInputs.cache
+e:\Temp\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfo.cs
+e:\Temp\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.CoreCompileInputs.cache
+e:\Temp\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.dll
+e:\Temp\backend\Backend.Core\obj\Debug\net5.0\ref\Backend.Core.dll
+e:\Temp\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\bin\Debug\net5.0\Backend.Core.deps.json
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\bin\Debug\net5.0\ref\Backend.Core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.AssemblyReference.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfoInputs.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfo.cs
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.CoreCompileInputs.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\obj\Debug\net5.0\ref\Backend.Core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Core\obj\Debug\net5.0\Backend.Core.pdb
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.csprojAssemblyReference.cache
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfoInputs.cache
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfo.cs
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.CoreCompileInputs.cache
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\ref\Backend.Core.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfoInputs.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfo.cs
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.CoreCompileInputs.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\ref\Backend.Core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\bin\Debug\net5.0\Backend.Core.deps.json
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\bin\Debug\net5.0\Backend.Core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\bin\Debug\net5.0\ref\Backend.Core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\bin\Debug\net5.0\Backend.Core.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.csprojAssemblyReference.cache
+D:\Desktop\backend with no DB\Backend.Core\bin\Debug\net5.0\Backend.Core.deps.json
+D:\Desktop\backend with no DB\Backend.Core\bin\Debug\net5.0\Backend.Core.dll
+D:\Desktop\backend with no DB\Backend.Core\bin\Debug\net5.0\ref\Backend.Core.dll
+D:\Desktop\backend with no DB\Backend.Core\bin\Debug\net5.0\Backend.Core.pdb
+D:\Desktop\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.AssemblyReference.cache
+D:\Desktop\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfoInputs.cache
+D:\Desktop\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfo.cs
+D:\Desktop\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.CoreCompileInputs.cache
+D:\Desktop\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.dll
+D:\Desktop\backend with no DB\Backend.Core\obj\Debug\net5.0\ref\Backend.Core.dll
+D:\Desktop\backend with no DB\Backend.Core\obj\Debug\net5.0\Backend.Core.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\bin\Debug\net5.0\Backend.Core.deps.json
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\bin\Debug\net5.0\Backend.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\bin\Debug\net5.0\ref\Backend.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\bin\Debug\net5.0\Backend.Core.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\obj\Debug\net5.0\Backend.Core.csprojAssemblyReference.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\obj\Debug\net5.0\Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfoInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\obj\Debug\net5.0\Backend.Core.AssemblyInfo.cs
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\obj\Debug\net5.0\Backend.Core.csproj.CoreCompileInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\obj\Debug\net5.0\Backend.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\obj\Debug\net5.0\ref\Backend.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Core\obj\Debug\net5.0\Backend.Core.pdb

@@ -1,0 +1,133 @@
+d:\Projects\WebSocket REST\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csprojAssemblyReference.cache
+d:\Projects\WebSocket REST\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\WebSocket REST\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfoInputs.cache
+d:\Projects\WebSocket REST\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfo.cs
+d:\Projects\WebSocket REST\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CoreCompileInputs.cache
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.deps.json
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.dll
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\ref\Backend.Middleware.dll
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.pdb
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Core.dll
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Repository.dll
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Scheduler.dll
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Service.dll
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Templates.dll
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.dll
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Core.pdb
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Repository.pdb
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Scheduler.pdb
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Service.pdb
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Templates.pdb
+d:\Projects\WebSocket REST\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.pdb
+d:\Projects\WebSocket REST\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CopyComplete
+d:\Projects\WebSocket REST\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.dll
+d:\Projects\WebSocket REST\Backend.Middleware\obj\Debug\net5.0\ref\Backend.Middleware.dll
+d:\Projects\WebSocket REST\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.pdb
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.deps.json
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.dll
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\ref\Backend.Middleware.dll
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.pdb
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Core.dll
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.MongoDBRepository.dll
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.MySQLRepository.dll
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Scheduler.dll
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Service.dll
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Templates.dll
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.dll
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Core.pdb
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.MongoDBRepository.pdb
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.MySQLRepository.pdb
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Scheduler.pdb
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Service.pdb
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Templates.pdb
+e:\Temp\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.pdb
+e:\Temp\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.AssemblyReference.cache
+e:\Temp\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+e:\Temp\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfoInputs.cache
+e:\Temp\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfo.cs
+e:\Temp\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CoreCompileInputs.cache
+e:\Temp\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CopyComplete
+e:\Temp\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.dll
+e:\Temp\backend\Backend.Middleware\obj\Debug\net5.0\ref\Backend.Middleware.dll
+e:\Temp\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.deps.json
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\ref\Backend.Middleware.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Core.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.MongoDBRepository.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.MySQLRepository.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Scheduler.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Service.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Templates.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Core.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.MongoDBRepository.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.MySQLRepository.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Scheduler.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Service.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Templates.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.pdb
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.AssemblyReference.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfoInputs.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfo.cs
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CoreCompileInputs.cache
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CopyComplete
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\obj\Debug\net5.0\ref\Backend.Middleware.dll
+e:\Desktop\TAVOKTATAS\BP\anyag\c#\backend\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.pdb
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\ref\Backend.Middleware.dll
+E:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csprojAssemblyReference.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfoInputs.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfo.cs
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CoreCompileInputs.cache
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.deps.json
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\bin\Debug\net5.0\ref\Backend.Middleware.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Core.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Core.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.pdb
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CopyComplete
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\ref\Backend.Middleware.dll
+F:\_Tananyag\Ionic\Roplabdaslanyok\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.pdb
+D:\Desktop\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.deps.json
+D:\Desktop\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.dll
+D:\Desktop\backend with no DB\Backend.Middleware\bin\Debug\net5.0\ref\Backend.Middleware.dll
+D:\Desktop\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.pdb
+D:\Desktop\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Core.dll
+D:\Desktop\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.dll
+D:\Desktop\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Core.pdb
+D:\Desktop\backend with no DB\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.pdb
+D:\Desktop\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.AssemblyReference.cache
+D:\Desktop\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfoInputs.cache
+D:\Desktop\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfo.cs
+D:\Desktop\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CoreCompileInputs.cache
+D:\Desktop\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CopyComplete
+D:\Desktop\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.dll
+D:\Desktop\backend with no DB\Backend.Middleware\obj\Debug\net5.0\ref\Backend.Middleware.dll
+D:\Desktop\backend with no DB\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.deps.json
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\bin\Debug\net5.0\ref\Backend.Middleware.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\bin\Debug\net5.0\Backend.Middleware.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\bin\Debug\net5.0\Backend.Core.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\bin\Debug\net5.0\Backend.Core.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\bin\Debug\net5.0\Backend.Validation.pdb
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csprojAssemblyReference.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfoInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.AssemblyInfo.cs
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CoreCompileInputs.cache
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.csproj.CopyComplete
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\obj\Debug\net5.0\ref\Backend.Middleware.dll
+C:\Users\sze0balnor\Desktop\mobile\project - 6\server\Backend.Middleware\obj\Debug\net5.0\Backend.Middleware.pdb
